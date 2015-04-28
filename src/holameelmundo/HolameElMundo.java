@@ -18,9 +18,6 @@ public class HolameElMundo {
         System.out.println("Holame El Mundo");
         System.out.println("Ei");
         
-        System.out.println("wwewew");
-        
-        System.out.println("aiaiaiaia");
     }
     
 }
